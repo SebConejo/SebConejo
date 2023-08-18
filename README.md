@@ -4,7 +4,7 @@ I'm Sebastien, co-founder of [CASE](https://case.app) and [Buddyweb](https://bud
 
 - 🔭 I’m currently working on CASE, an Open Source tool that should help developers to build CRUD applications easy and fast ! My team and I are passionate about it. 
 - 🌱 I’m currently learning CPO job. I spent a lot of years managing buddyweb customer projects. Now, I have to manage a product we have created ourselves. it's interesting and challenging !
-- 👯 I’m looking to collaborate on Open Source project, especailly if it's in relation with style integration and design.
+- 👯 I can collaborate on Open Source projects, especailly if it's in relation with style integration and design.
 - 💬 Ask me about UI & UX Design, front-end integration. I will do my best to help.
 
 - ⚡ Fun facts: 

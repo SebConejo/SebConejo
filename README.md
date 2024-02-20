@@ -16,5 +16,6 @@ I'm Sebastien, co-founder of [CASE](https://case.app) and [Buddyweb](https://bud
 - [instagram](https://www.instagram.com/sebastien_conejo/)
 - [Email](mailto:sebastien@buddyweb.fr)
 
+<a href="https://app.daily.dev/sebconejo"><img src="https://api.daily.dev/devcards/v2/dU65w8mTZwguzlhljjMh9.png?type=default&r=ir6" width="356" alt="Sébastien Conejo's Dev Card"/></a>
 
 

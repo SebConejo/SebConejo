@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Sebastien, co-founder of [manifest](https://manifest.build) and [Buddyweb](https://buddyweb.fr). 
+I'm Sebastien, co-founder of [manifest](https://manifest.build).
 
-- 🔭 I’m currently working on manifest, a simple backend allowing developers to build and deliver backend as easy as it can be. 
-- 🌱 I’m currently learning CPO job. I spent a lot of years managing buddyweb customer projects. Now, I have to manage a product we have created ourselves. it's interesting and challenging !
+- 🔭 I’m currently working on manifest, a simple backend allowing developers to build and deliver backend incredibly easily. 
+- 🌱 I’m currently doing CPO job. I navigate between product vision, technology strategy, and business growth.
 - 👯 I can collaborate on Open Source projects, especailly if it's in relation with style integration and design.
-- 💬 Ask me about UI & UX Design, front-end integration. I will do my best to help.
+- 💬 Ask me about prduct strategy, UI & UX Design or front-end integration. I will do my best to help.
 
 - ⚡ Fun facts: 
     - Outside work, I'm passionate about drawing. You can find some artworks on my instagram or on my Procreate profile for example. 

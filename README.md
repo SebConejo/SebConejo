@@ -19,5 +19,3 @@ I'm Sebastien, co-founder of [manifest](https://manifest.build).
 - [Email](mailto:sebastien@buddyweb.fr)
 
 <a href="https://app.daily.dev/sebconejo"><img src="https://api.daily.dev/devcards/v2/dU65w8mTZwguzlhljjMh9.png?type=default&r=ir6" width="356" alt="Sébastien Conejo's Dev Card"/></a>
-
-![](https://komarev.com/ghpvc/?username=SebConejo&color=brightgreen)

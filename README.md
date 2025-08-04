@@ -20,3 +20,4 @@ I'm Sebastien, co-founder of [manifest](https://manifest.build).
 <a href="https://app.daily.dev/sebconejo"><img src="https://api.daily.dev/devcards/v2/dU65w8mTZwguzlhljjMh9.png?type=default&r=ir6" width="356" alt="Sébastien Conejo's Dev Card"/></a>
 
 
+[![Sébastien Conejo profile views](https://u8views.com/api/v1/github/profiles/11723962/views/day-week-month-total-count.svg)](https://u8views.com/github/SebConejo)
